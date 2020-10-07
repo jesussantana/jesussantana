@@ -34,11 +34,11 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [JavascriptPhp, Java, CSharp, HTML, CSS],
+   code: [Javascript, Php, Java, CSharp, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Material UI"]
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design"]
       },
       backEnd: {
          js: ["Node", "Express"],
@@ -60,7 +60,7 @@ const aboutMe = {
  
 ### Tools 🛠️
 
-| [<img src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" alt="mongodb" width="24">](https://www.mongodb.com/) | [<img src="https://listimg.pinclipart.com/picdir/s/571-5710626_mysql-logo-mysql-logo-png-clipart.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="24">](https://netbeans.org/)  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)
+| [<img src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" alt="mongodb" width="24">](https://www.mongodb.com/) | [<img src="https://listimg.pinclipart.com/picdir/s/571-5710626_mysql-logo-mysql-logo-png-clipart.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="24">](https://netbeans.org/)  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)
 
 
 ### Github Stats
