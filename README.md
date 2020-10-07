@@ -13,13 +13,16 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
 <div>
  <p>
 - Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81.
-- My goal is to combine experience and training, to make applications that combine the best logic and usability.
+
 </p>
+ <p>
+- My goal is to combine experience and training, to make applications that combine the best logic and usability.
+ </p>
 </div>
 
 
@@ -66,7 +69,7 @@ const aboutMe = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-.esmarketingdigital.com.-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
 </p>
