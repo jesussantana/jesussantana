@@ -23,7 +23,6 @@
 <div>
  <p>
 - Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81.
-
 </p>
  <p>
 - My goal is to combine experience and training, to make applications that combine the best logic and usability.
@@ -37,8 +36,8 @@ const aboutMe = {
    code: [Javascript, Php, Java, CSharp, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: [React],
-         css: [Materialize, Bulma, Bootstrap, Material Design, Styled-Component, SASS]
+         js: [React, Styled-Component],
+         css: [Materialize, Bulma, Bootstrap, Material Design, SASS]
       },
       backEnd: {
          js: [Node, Express],
@@ -81,7 +80,6 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-NetBeans-9CBF33?style=flat&logo=netbeans&logoColor=white">
 <img src="http://img.shields.io/badge/-PhpStorm-885DEE?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
-
 </p>
 
 ### Github Stats
