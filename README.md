@@ -42,7 +42,8 @@ const aboutMe = {
       },
       backEnd: {
          js: [Node, Express],
-         java: [NetBeans],
+         php: [PhpStorm, ApacheServer],
+         java: [NetBeans, AndroidStudio],
          csharp: [Asp.net],
       },
       databases: [MongoDB, mySQL, SQLServe, phpMyAdmin],
