@@ -64,7 +64,7 @@ const aboutMe = {
          java: [NetBeans, AndroidStudio],
          csharp: [Asp.net],
       },
-      databases: [MongoDB, mySQL, SQLServe, phpMyAdmin],
+      databases: [MongoDB, mySQL, SQLServer, phpMyAdmin],
    },
    somethingMore: ["Passionate about Technology, since I discovered the code with my first computer, a Sinclair zx81"],
    challenge: ["My goal is to combine experience and training, to make applications with the best logic and usability"],
