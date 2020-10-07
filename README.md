@@ -3,6 +3,7 @@
 
 
 ### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
+</br>
 
 ### 👨‍💻 Tech 
 <p>
@@ -42,6 +43,8 @@
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
 </p>
 
+</br>
+
 ### 🙋‍♂️ About 
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
@@ -67,6 +70,7 @@ const aboutMe = {
    challenge: ["My goal is to combine experience and training, to make applications with the best logic and usability"],
 };
 ```
+</br>
 
 ### 📈 Stats
 
