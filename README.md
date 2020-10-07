@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 </p>
 
-### Connect 🤝🏻
+### Connect 📲
 
 <p>
  <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
@@ -43,7 +43,7 @@
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
 </p>
 
-### About 👨‍🦰
+### About 🙋‍♂️
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
