@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com.com)
+💻 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com.com) 🚀
 
 
-<p><em>👨‍💻 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a>, BootCamp. 😊</br>
+<p><em>👨‍🎓 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp. 👨‍💻</br>
 </em></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
