@@ -47,16 +47,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
-<div>
- <p>
-- Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81.
-</p>
- <p>
-- My goal is to combine experience and training, to make applications that combine the best logic and usability.
- </p>
-</div>
-
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -74,7 +64,7 @@ const aboutMe = {
       },
       databases: [MongoDB, mySQL, SQLServe, phpMyAdmin],
    },
-   currentOccupation: ["graduated from Ironhack in recent months, open to job opportunities"],
+   currentOccupation: ["Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81"],
    challenge: "My goal is to combine experience and training, to make applications with the best logic and usability",
 };
 ```
