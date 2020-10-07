@@ -64,7 +64,7 @@ const aboutMe = {
       },
       databases: [MongoDB, mySQL, SQLServe, phpMyAdmin],
    },
-   currentOccupation: ["Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81"],
+   somethingMore: ["Passionate about Technology and Programming, since I discovered the code with my first computer, a Sinclair zx81"],
    challenge: "My goal is to combine experience and training, to make applications with the best logic and usability",
 };
 ```
