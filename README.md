@@ -45,7 +45,7 @@ const aboutMe = {
          java: [NetBeans],
          csharp: [Asp.net],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", phpMyAdmin],
+      databases: [MongoDB, mySQL, SQLServe, phpMyAdmin],
    },
    currentOccupation: ["graduated from Ironhack in recent months, open to job opportunities"],
    challenge: "My goal is to combine experience and training, to make applications with the best logic and usability",
@@ -66,10 +66,3 @@ const aboutMe = {
 ### Github Stats
 
 [![Jesus Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true)](https://github.com/jesussantana)
-
-### Github Repos
-
-
-
-
-
