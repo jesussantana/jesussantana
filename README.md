@@ -5,7 +5,7 @@
 <p><em>👨‍🎓 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp. 👨‍💻</br>
 </em></p>
 
-### Programming Languages 🌐
+### Tech 🌐
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
