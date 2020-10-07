@@ -38,12 +38,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: [React],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design"]
+         css: [Materialize, Bulma, Bootstrap, Material Design, Styled-Component, SASS]
       },
       backEnd: {
          js: [Node, Express],
-         java: ["NetBeans"],
-         csharp: ["Asp.net Core"],
+         java: [NetBeans],
+         csharp: [Asp.net],
       },
       databases: ["MongoDB", "mySQL", "SQLServer", phpMyAdmin],
    },
