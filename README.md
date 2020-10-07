@@ -2,7 +2,7 @@
 > Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com.com)
 
 
-<p><em>👨‍💻 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a>, Full Stack Development. 😊</br>
+<p><em>👨‍💻 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a>, BootCamp. 😊</br>
 </em></p>
 
 <p align="center">
@@ -57,19 +57,17 @@ const aboutMe = {
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Jesus Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true)](https://github.com/jesussantana)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
 </p>
 
