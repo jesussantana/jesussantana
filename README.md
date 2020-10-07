@@ -43,9 +43,7 @@
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
 </p>
 
-<p align="center">
- <h2 align="center">About</h2>
-</p>
+### About 👨‍🦰
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
