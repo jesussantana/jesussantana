@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-> Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com.com)
+    Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com.com)
 
 
 <p><em>👨‍💻 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a>, BootCamp. 😊</br>
@@ -8,9 +8,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+ <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
+ <a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 <p align="center">
@@ -54,17 +54,17 @@ const aboutMe = {
 
 ### Programming Languages 🌐
 <p>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="http://img.shields.io/badge/-php-7377AD?style=flat&logo=php&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-E10000?style=flat&logo=java&logoColor=white">
-<img src="http://img.shields.io/badge/-Csharp-1E9E25?style=flat&logo=c&logoColor=white">
+<img src="http://img.shields.io/badge/-#-1E9E25?style=flat&logo=c&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/-Material-cc6699?style=flat&logo=material&logoColor=orange">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 </p>
 
@@ -77,6 +77,8 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-NetBeans-9CBF33?style=flat&logo=netbeans&logoColor=white">
+<img src="http://img.shields.io/badge/-PhpStorm-885DEE?style=flat&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 
 </p>
