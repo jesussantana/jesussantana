@@ -37,11 +37,11 @@ const aboutMe = {
    code: [Javascript, Php, Java, CSharp, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: [React],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: [Node, Express],
          java: ["NetBeans"],
          csharp: ["Asp.net Core"],
       },
