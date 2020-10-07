@@ -56,7 +56,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: [React, Styled-Component],
-         css: [Materialize, Bulma, Bootstrap, Material Design, SASS]
+         css: [Materialize, Bulma, Bootstrap, Material Design, SASS],
       },
       backEnd: {
          js: [Node, Express],
