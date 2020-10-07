@@ -5,7 +5,7 @@
 <p><em>👨‍🎓 A graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp. </br>
 </em></p>
 
-### Tech 👨‍💻
+### 👨‍💻 Tech 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 </p>
 
-### Tools 🛠️
+### 🛠️ Tools 
 
 <p>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 </p>
 
-### Connect 📲
+### 📲 Connect 
 
 <p>
  <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
@@ -43,7 +43,7 @@
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
 </p>
 
-### About 🙋‍♂️
+### 🙋‍♂️ About 
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
@@ -69,6 +69,6 @@ const aboutMe = {
 };
 ```
 
-### Github Stats
+### 📈 Stats
 
 [![Jesus Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true)](https://github.com/jesussantana)
