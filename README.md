@@ -42,7 +42,7 @@
 ### 📲 Connect 
 
 <p>
- <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@jesussantana-blue?style=flat&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
  <a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
 <a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
 </p>
