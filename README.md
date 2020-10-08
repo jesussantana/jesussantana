@@ -55,8 +55,8 @@ const aboutMe = {
    code: [Javascript, Php, Java, CSharp, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: [React, Styled-Component],
-         css: [Materialize, Bulma, Bootstrap, Material Design, SASS],
+         js: [React, Redux],
+         css: [Styled-Component, Materialize, Bulma, Bootstrap, Material-UI, SASS],
       },
       backEnd: {
          js: [Node, Express],
