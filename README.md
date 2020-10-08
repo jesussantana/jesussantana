@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Express.js-black?style=flat">
+<img src="https://img.shields.io/badge/-Ajax.js-blue?style=flat">
 <img src="http://img.shields.io/badge/-php-7377AD?style=flat&logo=php&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-E10000?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
