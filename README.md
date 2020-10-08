@@ -28,24 +28,30 @@
 <p>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Apache-red?style=flat&logo=apache&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-NetBeans-9CBF33?style=flat&logo=net20beans&logoColor=white">
 <img src="http://img.shields.io/badge/-PhpStorm-885DEE?style=flat&logo=php20storm&logoColor=white">
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Apache-red?style=flat&logo=apache&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
 </p>
 
 ### 📲 Connect 
 
-<p>
- <a href="https://www.linkedin.com/in/jesussantana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
- <a href="mailto:jesus@esmarketingdigital.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesus@esmarketigdigital.com-blue?style=flat&logo=gmail"></a>
-<a href="https://esmarketingdigital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.esmarketingdigital.com-blue?style=flat&logo=google-chrome"></a>
-</p>
+
+
+[![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
+[![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesussantana/)](https://www.linkedin.com/in/jesussantana/)
+[![Twitter](https://img.shields.io/twitter/follow/esMktDigital?style=social)](https://twitter.com/esMktDigital)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Mail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
+[![Blogger Blog](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white&link=https://esmarketingdigital.es)
+
 
 </br>
 
