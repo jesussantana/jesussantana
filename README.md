@@ -56,12 +56,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: [React, Redux],
-         css: [Styled-Component, Materialize, Bulma, Bootstrap, Material-UI, SASS],
+         css: [Styled-Component, Material-UI, Materialize, Bootstrap, Bulma, SASS],
       },
       backEnd: {
          js: [Node, Express],
          php: [PhpStorm, ApacheServer],
-         java: [NetBeans, AndroidStudio],
+         java: [NetBeans, AndroidStudio, ApacheTomcat ],
          csharp: [Asp.net],
       },
       databases: [MongoDB, mySQL, SQLServer, phpMyAdmin],
