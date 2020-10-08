@@ -49,8 +49,8 @@
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
 [![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesussantana/)](https://www.linkedin.com/in/jesussantana/)
 [![Twitter](https://img.shields.io/twitter/follow/esMktDigital?style=social)](https://twitter.com/esMktDigital)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Mail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
-[![Blogger Blog](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white&link=https://esmarketingdigital.es)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
+[![Blogger](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white)](https://esmarketingdigital.es)
 
 
 </br>
