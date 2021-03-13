@@ -7,6 +7,8 @@
 
 ### 👨‍💻 Tech 
 <p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
@@ -64,7 +66,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Php, Java, CSharp, HTML, CSS],
+   code: [Python, Javascript, Php, Java, CSharp, HTML, CSS],
    technologies: {
       frontEnd: {
          js: [React, Redux],
