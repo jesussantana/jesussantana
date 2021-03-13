@@ -7,8 +7,7 @@
 
 ### 👨‍💻 Tech 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
@@ -63,27 +62,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Python, Javascript, Php, Java, CSharp, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: [React, Redux],
-         css: [Styled-Component, Material-UI, Materialize, Bootstrap, Bulma, SASS],
-      },
-      backEnd: {
-         js: [Node, Express],
-         php: [PhpStorm, ApacheServer],
-         java: [NetBeans, AndroidStudio, ApacheTomcat ],
-         csharp: [Asp.net],
-      },
-      databases: [MongoDB, mySQL, SQLServer, phpMyAdmin],
-   },
-   somethingMore: ["Passionate about Technology, since I discovered the code with my first computer, a Sinclair zx81"],
-   challenge: ["My goal is to combine experience and training, to make applications with the best logic and usability"],
-};
-```
+
+#### ► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
+#### ► Developer of Web Applications, with extensive experience in Management and Administration of commercial establishments in different sectors.
+#### ► My goal is to combine experience and training, to make applications that combine the best logic and usability. 
 </br>
 
 ### 📈 Stats
