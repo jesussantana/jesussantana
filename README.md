@@ -3,7 +3,7 @@
 
 
 ### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
 ### 📲 Connect 
 
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
