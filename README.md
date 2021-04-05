@@ -1,6 +1,5 @@
 ### 📲 Connect 
 
-</br>
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
 [![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/)
 [![Instagram Badge](https://img.shields.io/badge/-@esmarketingdigital-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/esmarketingdigital/)](https://instagram.com/esmarketingdigital)
@@ -54,8 +53,6 @@
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
 </p>
-
-</br>
 
 ### 🙋‍♂️ About 
 
