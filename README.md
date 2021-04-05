@@ -1,3 +1,9 @@
+### 👋 Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
+### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
+
+
+### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ### 📲 Connect 
 
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
@@ -6,13 +12,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@esMktDigital-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/esMktDigital)](https://twitter.com/esMktDigital)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
 [![Blogger](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white)](https://esmarketingdigital.es)
-
-
-### 👋 Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
-
-
-### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
 </br>
 
 ### 👨‍💻 Tech 
