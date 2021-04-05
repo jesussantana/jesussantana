@@ -3,6 +3,7 @@
 
 
 ### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
 ### 📲 Connect 
 
@@ -60,7 +61,7 @@
 
 #### ► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
 #### ► Developer of Web Applications, with extensive experience in Management and Administration of commercial establishments in different sectors.
-#### ► My goal is to combine experience and training, to make applications with the best logic and usability.  
+#### ► My goal, to combine experience and training to make applications, with the best logic and usability..  
 </br>
 
 ### 📈 Stats
