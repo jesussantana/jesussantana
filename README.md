@@ -70,4 +70,7 @@
 
 ### 📈 Stats
 
-[![Jesus Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true)](https://github.com/jesussantana)
+[![Jesus Santana GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true&hide=issues)](https://github.com/jesussantana)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesussantana&layout=compact)](https://github.com/jesussantana/github-readme-stats)
+
