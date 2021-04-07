@@ -4,7 +4,7 @@
 
 ### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
+
 ### 📲 Connect 
 
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
@@ -19,17 +19,17 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-php-7377AD?style=flat&logo=php&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-E10000?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-black?style=flat">
-<img src="https://img.shields.io/badge/-Ajax.js-blue?style=flat">
-<img src="http://img.shields.io/badge/-php-7377AD?style=flat&logo=php&logoColor=white">
-<img src="http://img.shields.io/badge/-Java-E10000?style=flat&logo=java&logoColor=white">
-<img src="http://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=Express.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Ajax.js-blue?style=flat&logo=Ajax.js&logoColor=whitet">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Apache-red?style=flat&logo=apache&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-NetBeans-9CBF33?style=flat&logo=net20beans&logoColor=white">
@@ -64,7 +65,8 @@
 #### ► My goal, to combine experience and training to make applications, with the best logic and usability..  
 </br>
 
-### 📈 Stats
+### 📈 Stats  
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
 
 <a href="https://github.com/jesussantana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesussantana&show_icons=true&count_private=true&hide=issues" />
