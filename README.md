@@ -72,6 +72,3 @@
 <a href="https://github.com/jesussantana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesussantana&layout=compact" />
 </a>
-
-[![jesussantana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesussantana)](https://github.com/jesussantana/)
-
