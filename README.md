@@ -61,8 +61,8 @@
 
 
 #### ► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
-#### ► Developer of Web Applications, with extensive experience in Management and Administration of commercial establishments in different sectors.
-#### ► My goal, to combine experience and training to make applications, with the best logic and usability..  
+#### ► Developer of Web Applications, with extensive experience in Management of commercial establishments.
+#### ► My goal, to combine experience and training to make applications, with the best logic and usability.  
 </br>
 
 ### 📈 Stats  
