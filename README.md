@@ -3,16 +3,8 @@
  ---  
  
  
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
-
-
-### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
-
- ---  
  
- 
-### 📲 Connect 
+### 📲 Connect
 
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
 [![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/)
@@ -21,6 +13,16 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
 [![Blogger](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white)](https://esmarketingdigital.es)
 </br>  
+
+--- 
+ 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
+### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
+
+
+### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
+
+ 
 
  ---    
  
