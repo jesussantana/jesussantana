@@ -93,11 +93,11 @@
  ---
 
 ### 📈 Stats  
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&theme=onedark&row=1)](https://github.com/jesussantana)
+[![Jesus Santana's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&theme=dracula&row=1)](https://github.com/jesussantana)
 
 
 <a href="https://github.com/jesussantana/github-readme-stats">
-  <img align="center" src="https://wakatime.com/share/@jesussantana/a7f9ee21-f81b-4753-ac00-34a709b96c88.svg" witdh="590" height="500"/>
+  <img align="center" src="https://wakatime.com/share/@jesussantana/d427b157-f85d-48a6-a601-7fadf0593968.svg" witdh="590" height="500"/>
 </a>
 
 
