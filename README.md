@@ -15,16 +15,23 @@
 </br>  
 
 --- 
- 
+### 🙋‍♂️ About 
+
+<img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />  
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
 ### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
 
 
-### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
+### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.  
 
- 
 
- ---    
+
+- ✅ Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
+- ✅ Developer of Web Applications, with extensive experience in Management of commercial establishments.
+- ✅ My goal, to combine experience and training to make applications, with the best logic and usability. 
+
+---    
  
  
 ### 👨‍💻 Tech 
@@ -79,17 +86,7 @@
 </p>
   
   
- ---
-  
-  
-### 🙋‍♂️ About 
-
-<img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
-
-
-#### ► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
-#### ► Developer of Web Applications, with extensive experience in Management of commercial establishments.
-#### ► My goal, to combine experience and training to make applications, with the best logic and usability.  
+ 
   
 
  ---
