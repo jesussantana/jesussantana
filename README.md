@@ -93,7 +93,7 @@
  ---
 
 ### 📈 Stats  
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&theme=onedark&row=1)](https://github.com/jesussantana)
 
 
 <a href="https://github.com/jesussantana/github-readme-stats">
