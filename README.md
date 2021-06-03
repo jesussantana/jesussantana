@@ -17,8 +17,11 @@
 
 ### 👨‍💻 Tech 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-R-3776AB?style=flat&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
 <img src="http://img.shields.io/badge/-php-7377AD?style=flat&logo=php&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-E10000?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
@@ -26,7 +29,7 @@
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=Express.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-Ajax.js-blue?style=flat&logo=Ajax.js&logoColor=whitet">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -34,6 +37,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 </p>
+
 
 ### 🛠️ Tools 
 
@@ -43,17 +47,25 @@
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white"/>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Apache-red?style=flat&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/-docker-384D54?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-NetBeans-9CBF33?style=flat&logo=net20beans&logoColor=white">
-<img src="http://img.shields.io/badge/-PhpStorm-885DEE?style=flat&logo=php20storm&logoColor=white">
+<img src="http://img.shields.io/badge/-RStudio-3776AB?style=flat&logo=rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/phpstorm-143?style=flat&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white">
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
 </p>
+
+
+
+
+
 
 ### 🙋‍♂️ About 
 
