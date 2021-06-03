@@ -92,7 +92,7 @@
 
  ---
 
-### 📈 Stats  
+### :trophy: Stats Trophy 
 [![Jesus Santana's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&theme=dracula&row=1)](https://github.com/jesussantana)
 
 
