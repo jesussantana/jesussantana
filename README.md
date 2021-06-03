@@ -1,10 +1,17 @@
+![alt text](https://esmarketingdigital.com/images/esmarketingdigitalgh.png)  
+
+ ---  
+ 
+ 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
 ### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
 
 
 ### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.
 
-
+ ---  
+ 
+ 
 ### 📲 Connect 
 
 [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)
@@ -13,8 +20,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@esMktDigital-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/esMktDigital)](https://twitter.com/esMktDigital)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesus@esmarketingdigital.com)
 [![Blogger](https://img.shields.io/badge/-Blogger-E97A10?style=flat&logo=Blogger&logoColor=white)](https://esmarketingdigital.es)
-</br>
+</br>  
 
+ ---    
+ 
+ 
 ### 👨‍💻 Tech 
 <p>
 <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white">
@@ -36,8 +46,12 @@
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-</p>
-
+</p>  
+  
+  
+ ---
+  
+  
 
 ### 🛠️ Tools 
 
@@ -61,12 +75,11 @@
 <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Ubuntu-red?style=fla&logo=ubuntu&logoColor=white">
 </p>
-
-
-
-
-
-
+  
+  
+ ---
+  
+  
 ### 🙋‍♂️ About 
 
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />
@@ -75,7 +88,9 @@
 #### ► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
 #### ► Developer of Web Applications, with extensive experience in Management of commercial establishments.
 #### ► My goal, to combine experience and training to make applications, with the best logic and usability.  
-</br>
+  
+
+ ---
 
 ### 📈 Stats  
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&row=1)](https://github.com/jesussantana)
