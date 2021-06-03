@@ -97,7 +97,7 @@
 
 
 <a href="https://github.com/jesussantana/github-readme-stats">
-  <img align="center" src="https://wakatime.com/share/@jesussantana/ca28fd0b-0f60-48aa-b734-305f00de8112.svg" witdh="590" height="500"/>
+  <img align="center" src="https://wakatime.com/share/@jesussantana/a7f9ee21-f81b-4753-ac00-34a709b96c88.svg" witdh="590" height="500"/>
 </a>
 
 
