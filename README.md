@@ -95,8 +95,8 @@
 [![Jesus Santana's github trophy](https://github-profile-trophy.vercel.app/?username=jesussantana&theme=dracula&row=1)](https://github.com/jesussantana)
 
 
-<a href="https://github.com/jesussantana/github-readme-stats">
-  <img align="center" src="https://wakatime.com/share/@jesussantana/120aae24-8479-42ee-ba27-0ac348023b00.svg" witdh="590" height="500"/>
+<a href="https://wakatime.com/share/@jesussantana/293f45d1-1411-43e8-9cb7-af9c4adae3b5.svg">
+  <img align="center" src="https://wakatime.com/share/@jesussantana/293f45d1-1411-43e8-9cb7-af9c4adae3b5.svg" witdh="590" height="500"/>
 </a>
 
 
