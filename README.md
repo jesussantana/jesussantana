@@ -20,10 +20,11 @@
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />  
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-### 🚀 Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
+### 🚀 Data Scientist & Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
 
 
-### 👨‍🎓 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack</a> BootCamp.  
+### 👨‍🔬 Graduate at <a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy'21</a> Data Science BootCamp. 
+### 👨‍💻 Graduate at <a href="https://www.ironhack.com/es/desarrollo-web">Ironhack'20</a> Web Development BootCamp.
 
 
 
@@ -34,7 +35,7 @@
 ---    
  
  
-### 👨‍💻 Tech 
+### 🧰 Tech 
 <p>
 <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
