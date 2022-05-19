@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />  
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-### 🚀 Data Scientist & Full Stack Developer at [esMarketingDigital](https://esmarketingdigital.com) 
+### 🚀 Data Scientist & Developer at [esMarketingDigital](https://esmarketingdigital.com) 
 
 
 ### 👨‍🔬 Graduate at <a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy'21</a> Data Science BootCamp. 
