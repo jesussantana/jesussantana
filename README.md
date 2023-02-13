@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=jesussantana" alt="jesussantana" />  
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm [Jesus Santana](https://www.linkedin.com/in/chus-santana/)
-### 🚀 Data Scientist & Developer at [esMarketingDigital](https://esmarketingdigital.com) 
+### 🚀 Big Data Engineer at [Capgemini](https://www.capgemini.com/)
 
 
 ### 👨‍🔬 Graduate at <a href="https://www.barcelonactiva.cat/es/itacademy">IT Academy'21</a> Data Science BootCamp. 
@@ -29,8 +29,8 @@
 
 
 - ✅ Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.
-- ✅ Developer of Web Applications, with extensive experience in Management of commercial establishments.
-- ✅ My goal, to combine experience and training to make applications, with the best logic and usability. 
+- ✅ Data Scientist & Developer, with extensive experience in Management..
+- ✅ I help companies make the best strategic and operational decisions through data analysis and predictive models.
 
 ---    
  
